@@ -1,0 +1,11 @@
+O arquivo pilha.h é um arquivo de cabeçalho, ele deve ser colocado dentro da pasta "include" do seu compilador.
+
+No meu caso "..\Dev-Cpp\MinGW64\include\"
+
+ou abrir uma pasta, ex: header e realizar a chamada da seguinte forma:
+
+#include <"caminho\pilha.h">
+
+para dúvidas me mande um email:
+
+petersonfreitaslogistica@gmail.com
